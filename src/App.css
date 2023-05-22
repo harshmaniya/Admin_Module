@@ -1,0 +1,252 @@
+.nav_admin {
+    margin: 0px 50px;
+}
+
+/* login page css */
+
+.main-div-login {
+    height: 100%;
+    width: 100%;
+    /*background-color: green;*/
+    display: flex;
+    justify-content: center;
+}
+
+.l_m {
+    margin-top: 10%;
+
+}
+
+.b_l {
+    margin-top: 20px;
+    margin-left: 385px;
+}
+
+.login_main {
+    /* margin: 50px; */
+    padding: 20px;
+    border: 3px;
+}
+
+/* home page css */
+.card_home_page {
+    width: 20rem;
+}
+
+.col {
+    height: 150px;
+    width: 200px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.btn {
+    margin-left: 95px;
+}
+
+/* menu card css */
+.main {
+    /*background-color: red;*/
+    margin: 10px;
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 0 25px 25px 25px;
+    float: left;
+}
+
+.table_num {
+    /* border: 1px solid black; */
+    width: 50px;
+
+    /* padding: 5px; */
+    height: 18px;
+    margin-bottom: 10px;
+}
+
+.table_id {
+    text-align: center;
+    /* background-color: red; */
+    margin-top: 16px;
+
+}
+
+.pending {
+    /* border:1px solid black; */
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -10px;
+    margin-left: 120px;
+}
+
+.accepted {
+    /* border:1px solid black; */
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -10px;
+    margin-left: 250px;
+}
+
+.delivered {
+    /* border:1px solid black; */
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-top: -10px;
+    margin-left: 350px;
+}
+
+.task_name {
+    align-content: center;
+}
+
+#num {
+    text-align: center;
+}
+
+#task {
+    text-align: center;
+}
+
+
+/* table */
+.table_main {
+    padding: 90px;
+    /* border:2px solid black; */
+}
+
+.table_border {
+    border: 5px solid black;
+    overflow: scroll;
+    margin: 10px;
+    padding: 20px;
+    height: 530px;
+}
+
+.blo {
+    /*background-color: #57b846;*/
+    position: fixed;
+    padding: 10px 20px;
+}
+
+.btn_add {
+    position: fixed;
+    margin-top: 20px;
+    margin-left: 1050px;
+}
+
+.na {
+    margin-top: 10px;
+    margin-left: 50px;
+
+}
+
+.table_main_mm {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.manege_manu {
+    /*background-color: red;*/
+    padding: 0px 50px;
+    margin-left: 30px;
+    margin-top: 100px;
+    overflow-y: scroll;
+    width: 1300px;
+    height: 527px;
+}
+
+.manege_manu::-webkit-scrollbar {
+    display: none;
+}
+
+
+/* home page in managemenu */
+
+/* .btn_d{
+  margin-left:50;
+}*/
+.btn_d {
+    margin-top: -37px;
+    margin-left: 90px;
+    margin-right: -50px;
+}
+
+.btn_u {
+    margin-right: 20px;
+}
+
+.btn_manege_menu {
+    padding-right: 100px;
+    margin-left: -50px;
+}
+
+/* manege menu */
+
+.table_main_manu {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.table_border_manu {
+    margin-top: 80px;
+    overflow-y: scroll;
+    width: 1200px;
+    height: 500px;
+    /*background-color: #57b846;*/
+}
+
+.table_border_manu::-webkit-scrollbar {
+    display: none;
+}
+
+.table-head {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    text-align: center;
+}
+
+.table-body {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.blo_manu {
+    text-align: center;
+    /*background-color: red;*/
+    height: 70px;
+    margin-top: 10px;
+    width: 850px;
+    position: fixed;
+}
+
+/* feedback */
+.card_feedback {
+    margin: 20px;
+}
+
+.main-div-ls {
+    height: 100%;
+    width: 100%;
+    /*background-color: green;*/
+    display: flex;
+    justify-content: center;
+}
+
+.sub-div-ls {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.set-card-ls {
+    /*width: 1000px;*/
+    background-color: red;
+}
